@@ -1,0 +1,14 @@
+D:\workspace\practice\core APIs\TodoApp\TodoApp\bin\Debug\netcoreapp2.2\TodoApp.deps.json
+D:\workspace\practice\core APIs\TodoApp\TodoApp\bin\Debug\netcoreapp2.2\TodoApp.runtimeconfig.json
+D:\workspace\practice\core APIs\TodoApp\TodoApp\bin\Debug\netcoreapp2.2\TodoApp.runtimeconfig.dev.json
+D:\workspace\practice\core APIs\TodoApp\TodoApp\bin\Debug\netcoreapp2.2\TodoApp.dll
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.csprojAssemblyReference.cache
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.csproj.CoreCompileInputs.cache
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.RazorAssemblyInfo.cache
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.RazorAssemblyInfo.cs
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.AssemblyInfoInputs.cache
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.AssemblyInfo.cs
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.RazorTargetAssemblyInfo.cache
+D:\workspace\practice\core APIs\TodoApp\TodoApp\bin\Debug\netcoreapp2.2\TodoApp.pdb
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.dll
+D:\workspace\practice\core APIs\TodoApp\TodoApp\obj\Debug\netcoreapp2.2\TodoApp.pdb
